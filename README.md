@@ -6,7 +6,7 @@
 |---------|-----------------|--------------------|--------------|
 |1        |New York         |New York            |  N           |
 |2        |Los Angeles      |California          |  Y           |
-|3        |Chicago          |Illinois            |              |
+|3        |Chicago          |Illinois            | Not Yet - see below| 
 |4        |Houston          |Texas               |              |
 |5        |Phoenix          |Arizona             |              |
 |6        |Philadelphia     |Pennsylvania        |              |
