@@ -55,4 +55,7 @@
 |49       |Arlington        |Texas               |              |
 |50       |New Orleans      |Louisiana           |              |
 
+lead for chigaco 
+https://github.com/invinst/chicago-police-data/tree/master/data/unified_data
+
 ## Step Two: hahaha idk 
