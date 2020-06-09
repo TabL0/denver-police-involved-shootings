@@ -1,0 +1,660 @@
+Incident ID,Department,Date,Location,Individual's Weapon,Shooting Type,Initial incident
+1,Amarillo PD,4/5/2010,3404 Janet Drive,Vehicle,Non-Fatal,Stolen vehicle
+2,Amarillo PD,4/17/2010,401 E Willow Creek Dr,Vehicle,Non-Fatal,Traffic stop
+3,Amarillo PD,7/29/2010,4901 S Washington St,Gun,Non-Fatal,Fight / disorderly conduct
+4,Amarillo PD,8/16/2010,801 N Lincoln St,Vehicle,Fatal,Stolen vehicle
+5,Amarillo PD,1/30/2011,700 S. Polk St,Vehicle,Fatal,Shots fired / shooting
+6,Amarillo PD,9/19/2011,900 N Tennessee,Gun,No Hit,Other
+7,Amarillo PD,9/21/2011,441 S Western St,Gun,Fatal,Shots fired / shooting
+8,Amarillo PD,9/22/2011,100 S Buchanan St,BB Gun/Toy Gun,Fatal,Burglary / home invasion
+9,Amarillo PD,2/6/2012,2909 E IH 40 HWY,Gun,No Hit,Other
+10,Amarillo PD,1/12/2013,1911 E IH 40,Vehicle,No Hit,Drug suspicion / drug warrant
+11,Amarillo PD,7/7/2013,1615 S Jackson St,Gun,Fatal,Fight / disorderly conduct
+12,Amarillo PD,8/19/2013,2813 E Amarillo Blvd,Gun,No Hit,Robbery
+13,Amarillo PD,8/27/2013,5903 Winkler Dr,Gun,No Hit,Weapons disturbance
+14,Amarillo PD,3/18/2014,1501 S. Coulter,Vehicle,Non-Fatal,Fight / disorderly conduct
+15,Amarillo PD,12/20/2015,833 S Travis St,Gun,Fatal,Mental crisis / suicide attempt
+16,Austin PD,1/25/2014,9400 N. Lamar Blvd,Vehicle,No Hit,Traffic stop
+17,Austin PD,3/18/2014,6301 Berkman Dr.,BB Gun/Toy Gun,Non-Fatal,Domestic Disturbance
+18,Austin PD,9/8/2014,13712 Maye Pl.,Gun,Fatal,Robbery
+19,Austin PD,11/28/2014,715 E 8th St.,Gun,Fatal,Shots fired / shooting
+20,Austin PD,1/14/2013,7112 Ed Bluestein Blvd SVRD SB / 5431 N IH 35 SVRD NB,Gun,No Hit,Robbery
+21,Austin PD,3/1/2013,10617 Lanshire Dr #B,Gun,Fatal,Shots fired / shooting
+22,Austin PD,4/23/2013,706 Valdez St,Gun,Fatal,Weapons disturbance
+23,Austin PD,5/8/2013,3300 E 12th St,Unarmed,No Hit,Traffic stop
+24,Austin PD,5/17/2013,6855 E US 290 Hwy SVRD EB,Gun,No Hit,Weapons disturbance
+25,Austin PD,7/26/2013,3500 CRAWFORD AVE,Unarmed,Fatal,Suspicious activity / patrol
+26,Austin PD,8/31/2013,9416 Neils Thompson Dr,Vehicle,Non-Fatal,Burglary / home invasion
+27,Austin PD,10/18/2013,1609 Cripple Creek Dr,Gun,Non-Fatal,Shots fired / shooting
+28,Austin PD,11/10/2013,2900 Cole St #204,Gun,Non-Fatal,Other
+29,Austin PD,2/3/2012,7201 Wood Hollow Dr,Gun,Non-Fatal,Mental crisis / suicide attempt
+30,Austin PD,4/5/2012,5200 Block Overbrook Dr,Other,Fatal,Traffic stop
+31,Austin PD,9/25/2012,2915 S IH 35 Svrd NB,Vehicle,Fatal,Stolen vehicle
+32,Austin PD,10/20/2012,300 Blk E 6th St,Vehicle,No Hit,Suspicious activity / patrol
+33,Austin PD,5/9/2011,1919 Burton Dr,Gun,Fatal,Shots fired / shooting
+34,Austin PD,5/30/2011,800 Block E 8th St,Vehicle,Fatal,Suspicious activity / patrol
+35,Austin PD,8/15/2011,3630 S Congress Ave,Gun,No Hit,Robbery
+36,Austin PD,11/5/2011,810 E Slaughter Ln,Other,No Hit,Fight / disorderly conduct
+37,Austin PD,12/5/2011,3708 Aspen Creek Pkwy,Vehicle,Non-Fatal,Stolen vehicle
+38,Austin PD,12/28/2011,7800 N IH 35 Svrd SB,Vehicle,No Hit,Drug suspicion / drug warrant
+39,Austin PD,9/25/2010,7800 E Ben White Blvd WB,Gun,Suicide,Domestic Disturbance
+40,Austin PD,10/1/2010,801 E William Cannon Dr #135,Gun,Fatal,Burglary / home invasion
+41,Austin PD,11/2/2010,12320 Tomanet Trail,Gun,Fatal,Shots fired / shooting
+42,Austin PD,12/23/2010,13006 Campos Dr,Knife,Fatal,Traffic stop
+43,Austin PD,1/23/2015,Slaughter/Congress,Gun,Fatal,Mental crisis / suicide attempt
+44,Austin PD,2/7/2015,8206 Pax Drive,Gun,Fatal,Shots fired / shooting
+45,Austin PD,5/24/2015,6409 Springdale Rd,Gun,Non-Fatal,Weapons disturbance
+46,Austin PD,5/25/2015,6505 Shirley,Gun,Fatal,Mental crisis / suicide attempt
+47,Austin PD,7/5/2015,10607 Golden Quail Drive,BB Gun/Toy Gun,Fatal,Other
+48,Austin PD,7/5/2015,700 San Jacinto Blvd,Gun,Fatal,Shots fired / shooting
+49,Austin PD,7/12/2015,9400 Claxton Dr,Gun,Fatal,Suspicious activity / patrol
+50,College  Station PD,8/13/2012,211 Fidelity St.,Gun,Fatal,Other
+51,Laredo PD,3/28/2011,1620 Iturbide St.,Vehicle,Non-Fatal,Stolen vehicle
+710,Laredo PD,5/26/2012,1120 Santa Ursula Ave,Vehicle,No Hit,Other
+52,Laredo PD,11/17/2014,3725 Calle Alta Ct.,Vehicle,Non-Fatal,Robbery
+53,Laredo PD,8/30/2014,5301 Sta. Maria Ave.,BB Gun/Toy Gun,Fatal,Weapons disturbance
+54,Laredo PD,2/14/2015,900 Gale St.,Gun,Fatal,Traffic stop
+55,Laredo PD,3/9/2015,1807 Convent Ave.,Gun,Fatal,Shots fired / shooting
+56,Laredo PD,11/9/2015,11119 Kirby Dr,Gun,Fatal,Mental crisis / suicide attempt
+57,Irving PD,12/20/2010,"14100 Preston Road, Dallas",Vehicle,Fatal,Burglary / home invasion
+58,Irving PD,8/27/2011,1710 Collier Street,Gun,Non-Fatal,Domestic Disturbance
+59,Irving PD,6/10/2012,3706 Block Drive,Gun,Fatal,Shots fired / shooting
+60,Irving PD,6/19/2013,625 Balleywood Rd,Gun,Fatal,Domestic Disturbance
+61,Irving PD,11/9/2014,3135 E. SH 114,Vehicle,Fatal,Drug suspicion / drug warrant
+62,Irving PD,12/5/2015,600 block of Jeff Ct,Gun,Fatal,Burglary / home invasion
+63,Lubbock PD,9/3/2010,312 54th,Gun,Non-Fatal,Other
+64,Lubbock PD,10/3/2010,2202 Buddy Holly Avenue,Gun,Non-Fatal,Shots fired / shooting
+65,Lubbock PD,2/20/2011,5208 Kenosha,Knife,Fatal,Other
+66,Lubbock PD,9/25/2011,5301-51st St,Gun,Non-Fatal,Burglary / home invasion
+67,Lubbock PD,6/18/2012,8707 Dover,Knife,Fatal,Weapons disturbance
+68,Lubbock PD,6/27/2012,4819 Ave Q,Gun,Fatal,Suspicious activity / patrol
+69,Lubbock PD,10/12/2013,1111 16th st,Gun,Non-Fatal,Suspicious activity / patrol
+70,Lubbock PD,1/17/2014,3316 Duke,Gun,Non-Fatal,Domestic Disturbance
+71,Lubbock PD,5/7/2014,2022 63rd,Knife,Fatal,Other
+72,Lubbock PD,8/25/2014,2820 Cornell,Gun,Fatal,Domestic Disturbance
+73,Lubbock PD,2/16/2015,700 34th St,Vehicle,No Hit,Traffic stop
+74,Lubbock PD,5/14/2015,4435 Marsha Sharp,Vehicle,Non-Fatal,Other
+83,Mesquite PD,3/18/2011,2732 El Paso Way,Vehicle,Non-Fatal,Unknown
+84,Mesquite PD,4/13/2012,"2711 Oak Bend, Dallas",Unarmed,Fatal,Burglary / home invasion
+85,Mesquite PD,12/5/2012,3644 Bahamas,Unarmed,Non-Fatal,Robbery
+86,Mesquite PD,11/16/2013,4200 US Hwy 80,Vehicle,Non-Fatal,Domestic Disturbance
+87,Mesquite PD,10/30/2015,18600 IH 635,BB Gun/Toy Gun,Fatal,Traffic stop
+88,Waco PD,1/2/2010,Cobbs Dr./Wooded Acres Dr.,Gun,Fatal,Burglary / home invasion
+89,Waco PD,10/30/2011,3400 blk Medallion Dr.,Vehicle,No Hit,Other
+90,Waco PD,1/11/2013,3424 Forrester Ln.,Unarmed,Non-Fatal,Domestic Disturbance
+91,Waco PD,3/18/2013,2010 Lyle Ave.,Gun,Non-Fatal,Domestic Disturbance
+93,Waco PD,6/18/2014,1100 blk N. 6th St.,Gun,No Hit,Domestic Disturbance
+94,Waco PD,2/4/2015,"11,800 blk I.H. 35 S. (Lorena City Limits)",BB Gun/Toy Gun,Fatal,Other
+95,Waco PD,4/18/2015,3423 N. 19th St.,BB Gun/Toy Gun,Non-Fatal,Robbery
+801,Waco PD,10/31/2015,4000 N. 19th Street,Gun,Non-Fatal,Mental crisis / suicide attempt
+96,Denton PD,7/9/2011,806 N. Ruddell,Gun,No Hit,Unknown
+97,Denton PD,7/8/2012,3601 Dunes,Gun,Fatal,Shots fired / shooting
+98,Denton PD,6/26/2013,"3613 Frankford, Dallas",Gun,Non-Fatal,Unknown
+99,Denton PD,11/17/2013,1123 Johnson,Unarmed,Non-Fatal,Unknown
+100,McAllen PD,1/31/2011,904 W. Redwood Ave,Knife,Non-Fatal,Domestic Disturbance
+101,McAllen PD,5/3/2015,1700 W. Beaumont Ave,Vehicle,Non-Fatal,Traffic stop
+102,Odessa PD,9/17/2010,14601 W. University Blvd,Gun,Non-Fatal,Other
+103,Odessa PD,3/25/2012,2914 N. Tom Green Ave,Gun,Fatal,Mental crisis / suicide attempt
+104,Odessa PD,4/20/2012,36 Paradise Ave,Vehicle,Non-Fatal,Domestic Disturbance
+105,Odessa PD,6/5/2012,4652 Conley Ave,Gun,Non-Fatal,Mental crisis / suicide attempt
+804,Odessa PD,12/23/2015,1025 Custer Ave,Unknown,Non-Fatal,Unknown
+106,Midland PD,5/12/2011,5113 Ric Drive,Other,Fatal,Domestic Disturbance
+107,Midland PD,9/22/2013,3303 N. Midkiff Rd,Vehicle,No Hit,Assault
+108,Midland PD,11/8/2013,1301 S. Terrell,Gun,Non-Fatal,Burglary / home invasion
+109,Midland PD,2/17/2014,Midland Drive / N. Loop 250 W,Unarmed,Non-Fatal,Traffic stop
+110,Midland PD,6/27/2014,2700 N. Big Spring St,Gun,Fatal,Robbery
+111,Midland PD,12/1/2014,2710 W. Washington,Knife,Fatal,Mental crisis / suicide attempt
+113,Midland PD,6/6/2015,2601 N. Midland Drive,Knife,Fatal,Mental crisis / suicide attempt
+114,Midland PD,9/5/2015,615 W. Wall Street,Gun,No Hit,Assault
+115,Richardson PD,9/27/2010,818 S. Central,Unarmed,Non-Fatal,Traffic stop
+116,Richardson PD,4/8/2013,500 Dumont Dr,Unarmed,Fatal,Traffic stop
+117,Richardson PD,1/19/2014,"13933 N Central, Dallas",Armed - Unknown Weapon,No Hit,Unknown
+118,Tyler PD,3/31/2011,1204 W Bow St,Vehicle,No Hit,Suspicious activity / patrol
+119,Tyler PD,1/1/2013,603 E queen st,Gun,Fatal,Shots fired / shooting
+120,Brownsville PD,7/17/2015,2300 Univeristy Blvd.,Unarmed,Fatal,Traffic stop
+121,Brownsville PD,1/4/2012,1800 Cummings Pl.,BB Gun/Toy Gun,Fatal,Weapons disturbance
+122,Dallas PD,2/5/2010,3303 W. Illinois Avenue,Gun,Suicide,Weapons disturbance
+123,Dallas PD,2/7/2010,2000 Pacific Avenue,Vehicle,No Hit,Shots fired / shooting
+124,Dallas PD,3/8/2010,12222 Merit Drive,Gun,No Hit,Shots fired / shooting
+125,Dallas PD ,3/10/2010,4200 Malden Street,Gun,Fatal,Shots fired / shooting
+126,Dallas PD,3/14/2010,2802 Materhorn Drive,Unarmed,Fatal,Domestic disturbance
+127,Dallas PD,3/22/2010,10222 N. Walton Walker Blvd,Other,Fatal,Suspicious activity / patrol
+128,Dallas PD ,4/27/2010,2600 Walnut Hill Lane,Vehicle,No Hit,Traffic stop
+129,Dallas PD,5/3/2010,1300 N. Munger Boulevard,Gun,Non-Fatal,Robbery
+130,Dallas PD,6/15/2010,2015 Ferndale Street,Gun,No Hit,Assault
+131,Dallas PD,6/28/2010,13015 Audelia Road,Unarmed,Fatal,Burglary / home invasion
+132,Dallas PD,7/16/2010,3701 Crane Street,Gun,Non-Fatal,Robbery
+133,Dallas PD,10/29/2010,3810 Bonnie View Road,Unarmed,Fatal,Suspicious activity / patrol
+134,Dallas PD,11/7/2010,3100 W. Davis Street,Unarmed,Fatal,Other
+135,Dallas PD,11/16/2010,8059 LBJ Freeway,BB Gun/Toy Gun,Non-Fatal,Robbery
+136,Dallas PD,11/28/2010,1170 N. Prairie Creek Road,Gun,No Hit,Shots fired / shooting
+137,Dallas PD,12/17/2010,7175 Wild Briar Lane,Gun,No Hit,Other
+138,Dallas PD,12/22/2010,9616 C. F. Hawn Freeway,Unarmed,No Hit,Other
+139,Dallas PD,3/24/2011,230 S. Riverfront Boulevard,Gun,Non-Fatal,Other
+140,Dallas PD,5/8/2011,6417 Ridgecrest Road,Unarmed,Non-Fatal,Weapons disturbance
+141,Dallas PD,6/24/2011,7152 Fair Oaks Avenue,Vehicle,No Hit,Weapons disturbance
+142,Dallas PD,7/22/2011,2550 W. Redbird Lane,Unarmed,No Hit,Burglary / home invasion
+143,Dallas PD,10/1/2011,2000 Commerce Street,Gun,No Hit,Shots fired / shooting
+144,Dallas PD,11/9/2011,2500 Wells Street,Gun,Non-Fatal,Traffic stop
+145,Dallas PD,11/16/2011,2900 Spruce Valley Lane,Unarmed,No Hit,Other
+146,Dallas PD ,11/30/2011,3800 Dilido Street,Gun,No Hit,Suspicious activity / patrol
+147,Dallas PD,12/5/2011,400 S. Houston Street,Gun,Fatal,Suspicious activity / patrol
+148,Dallas PD,12/10/2011,12121 Audelia Road,Knife,Non-Fatal,Assault
+149,Dallas PD,12/27/2011,3700 Penelope Street,Gun,Fatal,Suspicious activity / patrol
+150,Dallas PD,12/28/2011,11700 Audellia Road,Unarmed,No Hit,Other
+151,Dallas PD,2/2/2012,2700 Medill Street,Unarmed,Non-Fatal,Robbery
+152,Dallas PD,2/2/2012,2502 Grand Avenue,Gun,Non-Fatal,Robbery
+153,Dallas PD,2/13/2012,1180 N. St. Augustine Road,Gun,Fatal,Robbery
+154,Dallas PD,2/24/2012,17601 Marsh Lane,Gun,Fatal,Mental crisis / suicide attempt
+155,Dallas PD,3/7/2012,3000 Lombardy Lane,Vehicle,Fatal,Stolen vehicle
+156,Dallas PD,3/15/2012,400 S. Llewellyn Avenue,Unarmed,Non-Fatal,Other
+157,Dallas PD,5/22/2012,5900 Stretch Drive,Gun,Fatal,Drug suspicion / drug warrant
+158,Dallas PD,5/26/2012,3373 Lombardy Lane,Vehicle,No Hit,Shots fired / shooting
+159,Dallas PD,5/26/2012,2000 Campfire Circle,Vehicle,No Hit,Traffic stop
+160,Dallas PD,5/27/2012,7129 Tabor Drive,Gun,Fatal,Mental crisis / suicide attempt
+161,Dallas PD,5/29/2012,18220 Dallas Parkway,Vehicle,No Hit,Other
+162,Dallas PD,5/29/2012,7100 Valley View Lane,Vehicle,Non-Fatal,Stolen vehicle
+163,Dallas PD,6/2/2012,3600 Folklore Trail,Gun,Fatal,Traffic stop
+164,Dallas PD,6/24/2012,4345 W. Camp Wisdom Road,Gun,Fatal,Drug suspicion / drug warrant
+165,Dallas PD,7/15/2012,200 S. Pearl Street,Gun,No Hit,Fight / disorderly conduct
+166,Dallas PD,7/24/2012,3803 Mural Lane,Unarmed,Fatal,Other
+167,Dallas PD,8/3/2012,3851 Casa Del Sol Lane,Gun,Non-Fatal,Domestic Disturbance
+168,Dallas PD,8/6/2012,12670 E. Northwest Highway,Vehicle,No Hit,Burglary / home invasion
+169,Dallas PD,10/27/2012,3716 Spring Avenue,Unarmed,No Hit,Suspicious activity / patrol
+170,Dallas PD,10/28/2012,800 N. Winnetka Avenue,Gun,Non-Fatal,Robbery
+171,Dallas PD,11/25/2012,8400 Forney Road,Unarmed,No Hit,Other
+172,Dallas PD,12/6/2012,9500 Castlefield Drive,Gun,Fatal,Weapons disturbance
+173,Dallas PD,12/14/2012,4542 W. Kiest Boulevard,Gun,Fatal,Suspicious activity / patrol
+174,Dallas PD,1/3/2013,1515 S. Buckner Boulevard,Vehicle,No Hit,Robbery
+175,Dallas PD,1/7/2013,4322 Fernwood Avenue,Gun,No Hit,Drug suspicion / drug warrant
+176,Dallas PD,2/8/2013,6500 Skillman Street,Gun,Fatal,Other
+177,Dallas PD,2/23/2013,3000 Chihuahua Street,Gun,Non-Fatal,Weapons disturbance
+178,Dallas PD,3/10/2013,3303 Southern Oaks Boulevard,Unarmed,Fatal,Domestic Disturbance
+179,Dallas PD,3/14/2013,2208 W. Northwest Highway,Gun,Fatal,Fight / disorderly conduct
+180,Dallas PD,3/15/2013,9147 Skillman Street,BB Gun/Toy Gun,No Hit,Drug suspicion / drug warrant
+181,Dallas PD,4/6/2013,534 Sunset Avenue,Vehicle,No Hit,Assault
+182,Dallas PD,4/15/2013,12100 Bellafonte Drive,Gun,No Hit,Other
+183,Dallas PD,5/31/2013,3600 Bolivar Drive,Gun,No Hit,Robbery
+184,Dallas PD,6/19/2013,8943 Senate Street,Gun,No Hit,Robbery
+185,Dallas PD,6/26/2013,2310 Martin Luther King Jr. Blvd,Knife,Non-Fatal,Theft
+186,Dallas PD,7/17/2013,1639 Conner Drive,Unarmed,Fatal,Burglary / home invasion
+187,Dallas PD,7/31/2013,4600 Haverwood Lane,Gun,No Hit,Shots fired / shooting
+189,Dallas PD,9/14/2013,2825 Oak Lawn Avenue,Gun,No Hit,Burglary / home invasion
+190,Dallas PD,9/26/2013,10316 Sandra Lynn Drive,Gun,Fatal,Shots fired / shooting
+191,Dallas PD,10/2/2013,1339 Morrell Avenue,Gun,No Hit,Other
+192,Dallas PD,10/11/2013,222 N. Barnett Avenue,Unarmed,No Hit,Burglary / home invasion
+193,Dallas PD,10/14/2013,9452 Crimnson Court,Knife,Non-Fatal,Mental crisis / suicide attempt
+194,Dallas PD,11/1/2013,1524 E. Missouri Avenue,Other,Fatal,Other
+195,Dallas PD,12/9/2013,9524 Military Parkway,Unarmed,Non-Fatal,Stolen vehicle
+196,Dallas PD,1/2/2014,2728 McKinnon Street,Gun,Fatal,Weapons disturbance
+197,Dallas PD,2/15/2014,13030 Audelia Road,Gun,Non-Fatal,Domestic Disturbance
+198,Dallas PD,2/19/2014,4200 Elmira Street,Gun,Non-Fatal,Drug suspicion / drug warrant
+199,Dallas PD,4/4/2014,1221 S. Lamar Street,Knife,Fatal,Assault
+200,Dallas PD,4/21/2014,3314 W. Camp Wisdom Road,Gun,Fatal,Drug suspicion / drug warrant
+201,Dallas PD,5/24/2014,6048 Belmont Avenue,Gun,Suicide,Weapons disturbance
+202,Dallas PD ,6/14/2014,208 Glencairn Drive,Other,Fatal,Mental crisis / suicide attempt
+203,Dallas PD,6/14/2014,8124 Forest Lane,Vehicle,No Hit,Other
+204,Dallas PD,6/26/2014,3000 Lantana Lane,Gun,Fatal,Shots fired / shooting
+205,Dallas PD,7/10/2014,500 S. Llewlyn Avenue,Gun,No Hit,Traffic stop
+206,Dallas PD,8/10/2014,400 S. Rosemont Avenue,Unarmed,Fatal,Suspicious activity / patrol
+207,Dallas PD,8/11/2014,3647 Espanola Drive,Knife,Fatal,Assault
+208,Dallas PD,8/20/2014,7921 LBJ Freeway,Gun,Suicide,Suspicious activity / patrol
+209,Dallas PD,8/21/2014,4800 Veterans Drive,Gun,Non-Fatal,Shots fired / shooting
+210,Dallas PD,8/25/2014,9000 Lake June Road,Gun,Fatal,Other
+211,Dallas PD,8/27/2014,13739 N. Central Expressway,Gun,Fatal,Suspicious activity / patrol
+212,Dallas PD,9/7/2014,1550 Empire Central,Vehicle,Fatal,Drug suspicion / drug warrant
+213,Dallas PD,10/1/2014,4807 Maple Drive,BB Gun/Toy Gun,No Hit,Robbery
+214,Dallas PD,10/22/2014,9770 Forest Lane,Unarmed,No Hit,Suspicious activity / patrol
+215,Dallas PD,12/16/2014,6185 Retail Road,Knife,Non-Fatal,Theft
+216,Dallas PD,2/9/2015,7400 Bonnie View Road,Vehicle,Fatal,Shots fired / shooting
+217,Dallas PD,6/12/2015,2620 Creative Place,Unarmed,No Hit,Suspicious activity / patrol
+218,Dallas PD,6/13/2015,1400 South Lamar Street,Gun,Fatal,Shots fired / shooting
+219,Dallas PD,6/14/2015,3211 Reynolds Avenue,Gun,No Hit,Shots fired / shooting
+220,Dallas PD,6/26/2015,3306 Irving Boulevard,Gun,No Hit,Robbery
+221,Dallas PD,7/7/2015,1100 N. Bishop Blvd,Gun,Fatal,Other
+222,Dallas PD,8/27/2015,3610 Penelope Street,BB Gun/Toy Gun,Fatal,Robbery
+223,Dallas PD,9/21/2015,10800 Stone Canyon Road,Gun,Fatal,Shots fired / shooting
+224,Dallas PD,9/30/2015,4207 Wiley College Drive,Gun,No Hit,Mental crisis / suicide attempt
+225,Dallas PD,11/9/2015,2435 W. Northwest Highway,Vehicle,Non-Fatal,Fight / disorderly conduct
+226,Dallas PD,11/15/2015,8687 N. Central Expressway,Vehicle,No Hit,Theft
+227,Beaumont PD,4/6/2010,6370 College St,Vehicle,Non-Fatal,Burglary / home invasion
+228,Beaumont PD,1/6/2012,1500 Elgie St,Gun,Fatal,Suspicious activity / patrol
+229,Beaumont PD,3/14/2012,1000 block Pearl St,Gun,Non-Fatal,Shots fired / shooting
+230,Beaumont PD,12/22/2012,3090 Gulf St,Gun,Non-Fatal,Fight / disorderly conduct
+231,Beaumont PD,1/11/2013,3270 10th St,Gun,Non-Fatal,Assault
+232,Beaumont PD,8/24/2013,3300 Cleveland St,Gun,Non-Fatal,Robbery
+233,Beaumont PD,6/25/2014,3100 E. Lucas Drive,Gun,Fatal,Shots fired / shooting
+234,Fort Worth PD,1/17/2010,3124 N Nichols St,Vehicle,No Hit,Fight / disorderly conduct
+236,Fort Worth PD,5/17/2010,3400 Wehring,Unarmed,Fatal,Mental crisis / suicide attempt
+237,Fort Worth PD,5/27/2010,2411 N Main,Vehicle,Non-Fatal,Drug suspicion / drug warrant
+238,Fort Worth PD,5/31/2010,9040 Sunridge Cir,Unarmed,Fatal,Burglary / home invasion
+240,Fort Worth PD,9/28/2010,7404 Tallow Wind Trl,Vehicle,No Hit,Robbery
+241,Fort Worth PD,10/1/2010,5012 Trail Lake Dr,Gun,Non-Fatal,Robbery
+242,Fort Worth PD,10/10/2010,6720 Marvin Brown St,Unknown,No Hit,Unknown
+243,Fort Worth PD,10/20/2010,4900 Katy,Other,Non-Fatal,Suspicious activity / patrol
+244,Fort Worth PD,2/28/2011,6020 E Rosedale East,Vehicle,Fatal,Traffic stop
+245,Fort Worth PD,4/19/2011,8100 E. I-130,Gun,No Hit,Shots fired / shooting
+246,Fort Worth PD,5/23/2011,1817 Kingsbrook Trl,Vehicle,Non-Fatal,Burglary / home invasion
+247,Fort Worth PD,5/23/2011,1320 Country Manor Rd,Other,Fatal,Mental crisis / suicide attempt
+248,Fort Worth PD,7/12/2011,2020 Williams Pl,Gun,Fatal,Other
+249,Fort Worth PD,8/23/2011,5137 Big Fork Rd.,Gun,Fatal,Robbery
+250,Fort Worth PD,12/14/2011,6156 Ramey Ave,Other,Non-Fatal,Robbery
+251,Fort Worth PD,12/25/2011,4055 Altamesa Blvd,Gun,Fatal,Mental crisis / suicide attempt
+252,Fort Worth PD,6/26/2012,2000 Beach St,Gun,Fatal,Shots fired / shooting
+253,Fort Worth PD,10/28/2012,10813 Fandor St,Gun,Non-Fatal,Domestic Disturbance
+254,Fort Worth PD,1/29/2013,1936 Carson St,Gun,Fatal,Drug suspicion / drug warrant
+255,Fort Worth PD,1/31/2013,801 Forest Grove,Gun,Non-Fatal,Mental crisis / suicide attempt
+256,Fort Worth PD,2/9/2013,3106 N Pecan St,Vehicle,Fatal,Shots fired / shooting
+257,Fort Worth PD,4/24/2013,6469 Brentwood Stair,Gun,Fatal,Robbery
+258,Fort Worth PD,5/28/2013,409 Havenwood Ln N,Gun,Fatal,Burglary / home invasion
+259,Fort Worth PD,11/23/2013,3200 Portales,Vehicle,Fatal,Other
+260,Fort Worth PD,3/6/2014,2824 Westwind Cir,Other,Non-Fatal,Burglary / home invasion
+261,Fort Worth PD,6/13/2014,2004 Loving Av,Gun,Fatal,Burglary / home invasion
+262,Fort Worth PD,7/29/2014,6300 McCart Av,Gun,Non-Fatal,Other
+263,Fort Worth PD,10/18/2014,1121 E Seminary,Gun,Non-Fatal,Weapons disturbance
+264,Fort Worth PD,12/2/2014,6033 Camp Bowie Blvd,Other,Fatal,Robbery
+265,Fort Worth PD,1/17/2015,NE 36th St/Weber St,Knife,Fatal,Traffic stop
+266,Fort Worth PD,1/29/2015,4817 Hildring Dr. E,Gun,Fatal,Other
+267,Fort Worth PD,3/8/2015,2401 S Campus St,Vehicle,Non-Fatal,Burglary / home invasion
+268,Fort Worth PD,2/18/2015,2345 Meacham Blvd,Gun,Non-Fatal,Fight / disorderly conduct
+269,Fort Worth PD,4/22/2015,235 N Retta St,Gun,Fatal,Shots fired / shooting
+901,Fort Worth PD,6/23/2015,1329 New York Ave.,Other,Non-Fatal,Weapons disturbance
+902,Fort Worth PD,7/31/2015,W 5th St. and Houston St. ,Gun,Fatal,Fight / disorderly conduct
+900,Fort Worth PD,12/19/2015,6749 Friendsway Drive,Gun,Non-Fatal,Shots fired / shooting
+270,El Paso PD,4/1/2010,10500 Gateway West,Vehicle,Non-Fatal,Other
+271,El Paso PD ,9/16/2010,7904 Cecilia,Gun,Non-Fatal,Domestic Disturbance
+272,El Paso PD,3/3/2011,2200 Sun Bowl Dr,Vehicle,No Hit,Traffic stop
+273,El Paso PD,3/25/2011,11680 Montwood Dr EB,Knife,Fatal,Other
+1002,El Paso PD,4/15/2011,3820 Harrison Ave,Vehicle,Non-Fatal,Other
+653,El Paso PD,6/25/2011,300 Mirasol Dr,Gun,Non-Fatal,Domestic Disturbance
+274,El Paso PD,1/31/2012,5300 Blanco Ave,Other,Non-Fatal,Suspicious activity / patrol
+275,El Paso PD,6/15/2012,8491 Alameda Ave,Knife,Fatal,Mental crisis / suicide attempt
+276,El Paso PD,8/12/2012,3906 Piedras,Knife,Non-Fatal,Domestic Disturbance
+277,El Paso PD,3/1/2013,2600 W Paisano Dr,Gun,Fatal,Other
+652,El Paso PD,3/8/2013,601 E. Overland Ave,Unarmed,Fatal,Other
+651,El Paso PD,7/29/2013,7824 Maverick Ave,Knife,Fatal,Other
+278,El Paso PD,10/20/2014,6099 Montana,Gun,Fatal,Weapons disturbance
+279,El Paso PD,1/9/2015,4400 block of Tetons,Gun,Fatal,Traffic stop
+280,El Paso PD,4/29/2015,376 Jesuit,Other,Fatal,Burglary / home invasion
+281,El Paso PD,5/21/2015,5111 Fairbanks,Gun,Fatal,Mental crisis / suicide attempt
+282,El Paso PD,8/6/2015,4000 Dyer,Gun,Suicide,Traffic stop
+650,El Paso PD,9/21/2015,9030 Betel Dr.,Vehicle,Non-Fatal,Burglary / home invasion
+649,El Paso PD,12/11/2015,700 S. Zaragoza Rd,Vehicle,Non-Fatal,Traffic stop
+283,Plano PD,10/7/2010,"Lake Bonham, Texas",Gun,Fatal,Drug suspicion / drug warrant
+284,Plano PD,10/13/2010,"Dallas, Texas",Unarmed,Fatal,Drug suspicion / drug warrant
+285,Plano PD,8/15/2011,"Plano, Texas",Knife,Non-Fatal,Domestic Disturbance
+286,Garland PD,1/30/2011,1010 Lourock Dr.,Knife,Non-Fatal,Domestic Disturbance
+287,Garland PD,2/26/2011,1021 Woodcrest Dr,Gun,Fatal,Weapons disturbance
+685,Garland PD,6/14/2012,900 block of N.W. Highway,Vehicle,No Hit,Assault
+288,Garland PD,8/31/2012,"3000 block of Monarch Drive, Mesquite, TX",Unarmed,Fatal,Traffic stop
+289,Garland PD,2/18/2013,"Interstate-30, Greenville, TX",Gun,Non-Fatal,Other
+290,Garland PD,7/28/2013,1801 Market Place,Other,Fatal,Theft
+291,Garland PD,9/6/2013,"Buckner Blvd/Hwy 175, Dallas, TX",Gun,Suicide,Assault
+292,Garland PD,6/20/2014,3347 W. Walnut,Knife,Fatal,Weapons disturbance
+293,Garland PD,5/3/2015,4999 Naaman Forest,Gun,Fatal,Shots fired / shooting
+294,Grand Prairie PD,11/5/2011,2407 W. Pioneer Pkwy,Gun,No Hit,Weapons disturbance
+295,Grand Prairie PD,12/21/2012,2421 S. Carrier Pkwy,BB Gun/Toy Gun,Non-Fatal,Other
+297,Grand Prairie PD,3/14/2013,1200 SW 3rd,Unarmed,No Hit,Traffic stop
+298,Grand Prairie PD,12/25/2013,3100 N. Camino Lagos,Gun,No Hit,Other
+299,Grand Prairie PD,12/25/2013,7200 Lakeridge,Gun,Fatal,Other
+300,Grand Prairie PD,6/5/2014,"2923 Forest Hollow, Arlington",Gun,No Hit,Drug suspicion / drug warrant
+301,Grand Prairie PD,5/15/2015,1809 SE 14th St.,Other,Non-Fatal,Fight / disorderly conduct
+302,McKinney PD,6/15/2012,COLLIN MCKINNEY PKWY/STACY RD,Unknown,No Hit,Unknown
+303,McKinney PD,1/13/2013,1800 blk N CENTRAL EXPY SB,Unknown,No Hit,Unknown
+675,McKinney PD,9/23/2015,1300 Eldorado Pkwy,Gun,Fatal,Other
+304,Lewisville PD,10/24/2012,501 E. Round Grove Rd.,Gun,Fatal,Assault
+305,Lewisville PD,9/24/2011,100 block of Oakridge Boulevard,Gun,Non-Fatal,Traffic stop
+306,Lewisville PD,11/26/2014,375 E. Round Grove Rd./300 block of N. IH35E SB,Gun,Fatal,Other
+307,San Antonio PD,1/10/2010,IH 10 EB Foster Rd,Armed - Unknown Weapon,Fatal,Unknown
+308,San Antonio PD,1/14/2010,1918 S.W Military Dr,Unarmed,Fatal,Unknown
+309,San Antonio PD,2/4/2010,3903 Barrington #1416,Unarmed,Fatal,Unknown
+310,San Antonio PD,2/11/2010,2434 S.W Loop 410#210,Armed - Unknown Weapon,Non-Fatal,Unknown
+311,San Antonio PD,2/24/2010,10909 IH 35N,Unarmed,Non-Fatal,Unknown
+312,San Antonio PD,2/26/2010,619 Corliss,Armed - Unknown Weapon,Non-Fatal,Unknown
+313,San Antonio PD,3/8/2010,1063 SE Military DR,Unarmed,Non-Fatal,Unknown
+314,San Antonio PD,3/9/2010,815 Rayburn,Armed - Unknown Weapon,Non-Fatal,Unknown
+315,San Antonio PD,4/24/2010,4700 Holly Spring,Armed - Unknown Weapon,Non-Fatal,Unknown
+316,San Antonio PD,4/21/2010,918 S.Laredo,Unarmed,Non-Fatal,Unknown
+317,San Antonio PD,4/28/2010,500 Blk Carol Crest,Unarmed,Fatal,Unknown
+318,San Antonio PD,5/3/2010,1131 Austin Hwy,Unarmed,Fatal,Unknown
+319,San Antonio PD,6/17/2010,4200 San Pedro,Armed - Unknown Weapon,Non-Fatal,Unknown
+320,San Antonio PD,6/20/2010,1209 San Luis,Unarmed,Fatal,Unknown
+321,San Antonio PD,7/7/2010,5300 Hamilton Wolfe,Armed - Unknown Weapon,Non-Fatal,Unknown
+322,San Antonio PD,7/20/2010,5331 Little Creek,Unarmed,Fatal,Unknown
+323,San Antonio PD,7/24/2010,531 Susanwood@Kay Ann,Unarmed,Non-Fatal,Unknown
+324,San Antonio PD,10/29/2010,6420 NW Loop 410,Unarmed,Non-Fatal,Unknown
+325,San Antonio PD,11/11/2010,4318 Wild Oak,Armed - Unknown Weapon,Non-Fatal,Unknown
+326,San Antonio PD,11/24/2010,6214 Valley Castle,Unarmed,Non-Fatal,Unknown
+327,San Antonio PD,12/2/2010,11250 Whisper Willow,Armed - Unknown Weapon,Fatal,Unknown
+328,San Antonio PD,2/1/2011,102 W. Rampart,Unarmed,No Hit,Suspicious activity / patrol
+329,San Antonio PD,2/3/2011,9111 Village Dr,Unarmed,Non-Fatal,Burglary / home invasion
+330,San Antonio PD,3/5/2011,1431 Cable Ranch Rd,Gun,Non-Fatal,Suspicious activity / patrol
+331,San Antonio PD,3/20/2011,5315 Rigsby,Gun,Non-Fatal,Robbery
+332,San Antonio PD,4/4/2011,214 N. Pinto,Gun,No Hit,Domestic Disturbance
+333,San Antonio PD,5/5/2011,226 Grotto,Gun,Non-Fatal,Other
+334,San Antonio PD,6/13/2011,1202 NE Loop 410,Vehicle,Non-Fatal,Robbery
+336,San Antonio PD,7/31/2011,15010 Beavers Run,Gun,Non-Fatal,Domestic Disturbance
+337,San Antonio PD,8/19/2011,3916 IH 35N,Unarmed,Non-Fatal,Other
+338,San Antonio PD,9/23/2011,200 blk E. Hafer,Unarmed,Non-Fatal,Stolen vehicle
+339,San Antonio PD,3/15/2012,8600 Fredericksburg,Gun,Fatal,Mental crisis / suicide attempt
+340,San Antonio PD,3/26/2012,9400 Fredericksburg,Gun,Non-Fatal,Robbery
+341,San Antonio PD,4/4/2012,11627 Sandman,Knife,Fatal,Domestic Disturbance
+342,San Antonio PD,4/4/2012,1500 Fitch,Gun,Non-Fatal,Suspicious activity / patrol
+343,San Antonio PD,4/11/2012,1500 IH 35 S,Gun,Fatal,Other
+344,San Antonio PD,5/4/2012,815 N Pine,Knife,Fatal,Domestic Disturbance
+345,San Antonio PD,6/9/2012,3766 Tupelo Lane,Unarmed,Fatal,Mental crisis / suicide attempt
+346,San Antonio PD,7/27/2012,8205 Micron,Gun,Fatal,Shots fired / shooting
+347,San Antonio PD,9/14/2012,11202 IH 35,Gun,Fatal,Weapons disturbance
+348,San Antonio PD,2/22/2013,7460 Kitty Hawk Rd,Gun,Fatal,Traffic stop
+349,San Antonio PD,3/4/2013,927 Drury Ln,Gun,Fatal,Assault
+350,San Antonio PD,3/4/2013,120 Delmar,Gun,Non-Fatal,Assault
+351,San Antonio PD,6/17/2013,5242 Gawain Dr,Gun,Fatal,Weapons disturbance
+352,San Antonio PD,6/28/2013,5126 Galahad Dr,Gun,Fatal,Other
+353,San Antonio PD,7/16/2013,4100 Gardendale,Unarmed,Fatal,Stolen vehicle
+355,San Antonio PD,10/14/2013,7615 Jones Maltsberger #211,Gun,Non-Fatal,Drug suspicion / drug warrant
+356,San Antonio PD,11/10/2013,11503 NW Military Hwy,Gun,Non-Fatal,Unknown
+357,San Antonio PD,11/13/2013,6218 S. New Braunfels,Knife,Fatal,Domestic Disturbance
+358,San Antonio PD,11/20/2013,9430 Rue Due Bois,Gun,Fatal,Shots fired / shooting
+359,San Antonio PD,11/21/2013,219 E. Evergreen Apt.5,Gun,No Hit,Weapons disturbance
+361,San Antonio PD,12/16/2013,600 Santa Rosa,Unarmed,Non-Fatal,Stolen vehicle
+362,San Antonio PD,12/21/2013,8803 Grissom Rd,Gun,Non-Fatal,Unknown
+363,San Antonio PD,2/19/2014,Ansley Bend @ Culebra,Vehicle,Non-Fatal,Burglary / home invasion
+364,San Antonio PD,2/28/2014,8614 Perrin Beitel Rd,Gun,Fatal,Other
+365,San Antonio PD,4/20/2014,7038 Culebra Rd,Gun,Fatal,Robbery
+366,San Antonio PD,4/19/2014,StoneOak Pkwy,Gun,No Hit,Traffic stop
+367,San Antonio PD,5/18/2014,7650 US HWY 90 W,Knife,Fatal,Mental crisis / suicide attempt
+368,San Antonio PD,6/19/2014,1005 Ruiz St,Gun,Fatal,Weapons disturbance
+369,San Antonio PD,7/13/2014,4202 Spiral Creek,Gun,Non-Fatal,Domestic Disturbance
+370,San Antonio PD,7/31/2014,2502 Nacogdoches,Gun,Fatal,Burglary / home invasion
+371,San Antonio PD,8/25/2014,5218 Village Row,Gun,No Hit,Drug suspicion / drug warrant
+372,San Antonio PD,8/30/2014,IH 10 E @ FM 1516,Vehicle,No Hit,Other
+373,San Antonio PD,10/9/2014,5503 Evers Rd,Other,Non-Fatal,Mental crisis / suicide attempt
+374,San Antonio PD,11/10/2014,819 S. Brownleaf,Gun,Non-Fatal,Robbery
+375,San Antonio PD,12/17/2014,1311 Hillcrest,Unarmed,Fatal,Fight / disorderly conduct
+376,San Antonio PD,3/14/2015,2615 Mossrock,Gun,Fatal,Shots fired / shooting
+377,San Antonio PD,4/3/2015,5903 Hidden Rose,Gun,Non-Fatal,Drug suspicion / drug warrant
+378,San Antonio PD,4/8/2015,Corrine @ Karen Lane,Gun,Fatal,Traffic stop
+379,San Antonio PD,5/1/2015,9107 Marbach,Vehicle,Non-Fatal,Shots fired / shooting
+380,San Antonio PD,6/23/2015,1700 S. Hamilton,Vehicle,Non-Fatal,Fight / disorderly conduct
+381,San Antonio PD,6/26/2015,7611 Marbach,Gun,Fatal,Other
+382,San Antonio PD,7/16/2015,5502 Walzem Rd,Unarmed,No Hit,Other
+383,San Antonio PD,7/27/2015,8330 Potranco #218,Gun,Fatal,Mental crisis / suicide attempt
+384,San Antonio PD,8/29/2015,6531 Spring Branch,Knife,Fatal,Burglary / home invasion
+385,San Antonio PD,9/18/2015,5027 Pecan Grove,Gun,Non-Fatal,Shots fired / shooting
+386,San Antonio PD,10/12/2015,8288 Eckhert Blvd,Gun,No Hit,Other
+387,San Antonio PD,10/28/2015,100 Block Forest Valley,Unarmed,Non-Fatal,Other
+388,San Antonio PD,11/17/2015,4001 Sun Harbour,Gun,Non-Fatal,Suspicious activity / patrol
+389,Wichita Falls PD,7/31/2011,4611 Taft Blvd,Knife,Non-Fatal,Other
+390,Wichita Falls PD,9/10/2011,1105 Austin St,Gun,Non-Fatal,Domestic Disturbance
+391,Wichita Falls PD,11/6/2011,123 Becky Dr,Gun,Fatal,Mental crisis / suicide attempt
+392,Wichita Falls PD,2/3/2012,500 Bonner St,Other,Fatal,Traffic stop
+393,Wichita Falls PD,5/14/2014,2030 Gloria Ln,Knife,Fatal,Domestic Disturbance
+394,Wichita Falls PD,7/3/2014,5516 Professional Dr Apt. 229,Gun,Non-Fatal,Domestic Disturbance
+395,Wichita Falls PD,7/13/2014,1403 N Scott Ave,Gun,Fatal,Fight / disorderly conduct
+396,Round Rock PD,4/8/2013,1500 South IH-35,Gun,No Hit,Robbery
+397,Round Rock PD,6/16/2013,1900 Nicole Circle,Gun,Fatal,Shots fired / shooting
+398,Round Rock PD,6/23/2013,221 E. Main St.,Gun,Fatal,Weapons disturbance
+399,Abilene PD,5/1/2012,Unknown,Unknown,Unknown,Unknown
+1001,Abilene PD,4/13/2011,2100 block of Shelton,Gun,Fatal,Weapons disturbance
+400,Abilene PD,8/8/2012,1433 N 17th St.,Gun,Fatal,Burglary / home invasion
+1000,Abilene PD,12/13/2012,Abilene Gold Exchange,Gun,Fatal,Other
+401,Abilene PD,5/15/2013,Unknown,Unknown,Unknown,Unknown
+402,Abilene PD,6/27/2014,Unknown,Gun,Fatal,Theft
+403,Abilene PD,9/12/2014,Texas State Veteran's Cemetery on FM 600,Gun,Fatal,Other
+404,Abilene PD,3/4/2015,1300 Butternut St.,Unknown,Unknown,Unknown
+405,Arlington PD,12/13/2015,703 E. Mitchell,Gun,Fatal,Mental crisis / suicide attempt
+406,Arlington PD,9/25/2015,700 to 2700 W Division,Gun,Non-Fatal,Stolen vehicle
+407,Arlington PD,5/19/2015,5706 Longhorn Lane,Gun,Non-Fatal,Burglary / home invasion
+408,Arlington PD,8/7/2015,1400 E. I-20,Unarmed,Fatal,Other
+409,Arlington PD,6/22/2014,"800 E. Hwy 67, Duncanville",Unarmed,Fatal,Fight / disorderly conduct
+410,Arlington PD,3/2/2014,5901 Valleycreek Drive,Other,Non-Fatal,Burglary / home invasion
+411,Arlington PD,12/28/2013,3028 Little Brook Lane,Gun,No Hit,Domestic Disturbance
+412,Arlington PD,11/11/2013,2600 E I20 Freeway,Vehicle,No Hit,Traffic stop
+413,Arlington PD,10/28/2013,1535 Silverwood Drive #296,Gun,No Hit,Shots fired / shooting
+414,Arlington PD,7/4/2013,2410 E. Arkansas,Gun,Fatal,Fight / disorderly conduct
+415,Arlington PD,9/26/2012,2420 E. Lamar Blvd,Gun,No Hit,Unknown
+416,Arlington PD,8/4/2012,1600 Colorado,Gun,No Hit,Shots fired / shooting
+417,Arlington PD,6/5/2012,612 E Arkansas Lane #B,Gun,Fatal,Robbery
+418,Arlington PD,12/5/2011,5400 Matlock Road,Vehicle,No Hit,Unknown
+419,Arlington PD,9/3/2011,"301 Washington Drive, Crowley",Vehicle,Unknown,Unknown
+420,Arlington PD,6/24/2011,1700 S. Center Street,Gun,Non-Fatal,Domestic Disturbance
+421,Arlington PD,3/20/2011,325 W Division,Vehicle,Non-Fatal,Burglary / home invasion
+422,Arlington PD,6/19/2010,Division and SH 360,Gun,Non-Fatal,Traffic stop
+423,Arlington PD,5/15/2010,2501 Oak Leaf Drive,Unarmed,No Hit,Domestic Disturbance
+424,Arlington PD,4/23/2010,3811 S Cooper Street,Vehicle,Non-Fatal,Theft
+425,Arlington PD,4/1/2010,2220 Eden Green Drive,Gun,Non-Fatal,Drug suspicion / drug warrant
+426,Houston PD,12/29/2015,3800 Hickok Ln.,Gun,Non-Fatal,Other
+427,Houston PD,12/12/2015,10079 Briarwild Ln.,Unarmed,Non-Fatal,Burglary / home invasion
+428,Houston PD,11/4/2015,3200 Drew,Gun,Fatal,Traffic stop
+429,Houston PD,10/30/2015,13630 Veterans Memorial,Gun,Fatal,Robbery
+430,Houston PD,10/16/2015,913 Panama,Gun,Fatal,Mental crisis / suicide attempt
+431,Houston PD,10/15/2015,7844 W Tidwell,Gun,Fatal,Robbery
+432,Houston PD,10/9/2015,777 Bateswood,Knife,Non-Fatal,Burglary / home invasion
+433,Houston PD,10/8/2015,1938 Indiana,Gun,Non-Fatal,Other
+434,Houston PD,10/3/2015,7753 Leonora St.,Gun,No Hit,Unknown
+435,Houston PD,9/24/2015,10011 Hanka,Vehicle,No Hit,Assault
+436,Houston PD,9/8/2015,6400 Hillcroft,Gun,No Hit,Shots fired / shooting
+437,Houston PD,9/5/2015,4926 Chennault,Gun,Non-Fatal,Shots fired / shooting
+438,Houston PD,8/27/2015,1401 St. Joseph Pkwy,Unarmed,Non-Fatal,Mental crisis / suicide attempt
+439,Houston PD,8/21/2015,3608 Crane St.,Gun,No Hit,Fight / disorderly conduct
+440,Houston PD,8/17/2015,4100 Hoffman,Gun,Fatal,Shots fired / shooting
+441,Houston PD,8/2/2015,9900 BEECHNUT ST,Vehicle,Fatal,Traffic stop
+442,Houston PD,7/28/2015,10234 Tangiers,Gun,No Hit,Robbery
+443,Houston PD,7/22/2015,6200 Gulfton,Gun,Non-Fatal,Weapons disturbance
+444,Houston PD,7/7/2015,12900 Tiny Tree Dr,Gun,Fatal,Robbery
+445,Houston PD,7/7/2015,115 E. Canino,Gun,No Hit,Robbery
+446,Houston PD,6/3/2015,12700 South Green,Knife,Fatal,Suspicious activity / patrol
+447,Houston PD,4/28/2015,11 Desert Willow Ct,Gun,Unknown,Burglary / home invasion
+448,Houston PD,4/17/2015,2203 Gessner,Unarmed,Non-Fatal,Other
+449,Houston PD,4/15/2015,15100 Wallisville,Unarmed,Fatal,Traffic stop
+450,Houston PD,4/13/2015,3 GREENS RD,Gun,Fatal,Assault
+451,Houston PD,4/2/2015,11900 block SOUTH SAM HOUSTON PARKWAY W,Unarmed,Non-Fatal,Unknown
+452,Houston PD,2/10/2015,8425 WINKLER DR,Gun,No Hit,Burglary / home invasion
+453,Houston PD,1/19/2015,800 N LOOP E,Unarmed,No Hit,Burglary / home invasion
+454,Houston PD,1/16/2015,14121 ELLA BLVD,Gun,Non-Fatal,Robbery
+455,Houston PD,1/16/2015,12810 GULF FWY OB,Gun,Fatal,Weapons disturbance
+456,Houston PD,1/9/2015,10902 MONTVERDE LN,Gun,Non-Fatal,Burglary / home invasion
+457,Houston PD,1/9/2015,16272 IMPERIAL VALLEY DR,Unarmed,Non-Fatal,Burglary / home invasion
+458,Houston PD,12/17/2014,13333 NORTHBOROUGH DR,Gun,Non-Fatal,Mental crisis / suicide attempt
+459,Houston PD,12/15/2014,400 N SAM HOUSTON PKWY E,Gun,Non-Fatal,Robbery
+460,Houston PD,12/12/2014,14600 BUFFALO SPEEDWAY,Unarmed,Non-Fatal,Unknown
+461,Houston PD,12/8/2014,12919 WINDFERN,Gun,No Hit,Weapons disturbance
+462,Houston PD,11/12/2014,10650 HEMPSTEAD RD,Gun,No Hit,Suspicious activity / patrol
+463,Houston PD,10/22/2014,3100 F.M. 1960,Gun,Non-Fatal,Robbery
+464,Houston PD,10/18/2014,4000 AIRLINE DR,Vehicle,No Hit,Traffic stop
+465,Houston PD,10/12/2014,1100 OLIVER,Vehicle,Non-Fatal,Robbery
+466,Houston PD,10/6/2014,6790 SOUTHWEST FWY OB,Gun,Fatal,Stolen vehicle
+467,Houston PD,10/1/2014,11703 KIRKMEADOW DR,Gun,Fatal,Assault
+468,Houston PD,9/30/2014,19210 GULF FWY OB,Gun,Fatal,Traffic stop
+469,Houston PD,9/23/2014,4830 HOLLOWAY DR,Vehicle,Non-Fatal,Other
+470,Houston PD,9/17/2014,1903 ROSEWOOD LN,Gun,Non-Fatal,Drug suspicion / drug warrant
+471,Houston PD,8/13/2014,14700 REDBUD,Gun,Fatal,Traffic stop
+472,Houston PD,8/13/2014,11960 AIRLINE DR,Gun,Fatal,Suspicious activity / patrol
+473,Houston PD,8/3/2014,2309 FANNIN,Unarmed,No Hit,Other
+474,Houston PD,7/30/2014,10406 AMBLEWOOD DR,Unarmed,Non-Fatal,Burglary / home invasion
+475,Houston PD,7/27/2014,3103 Dacca Drive,Gun,No Hit,Robbery
+476,Houston PD,5/5/2014,6406 BELARBOR ST,Gun,Fatal,Unknown
+477,Houston PD,5/1/2014,6211 COLLINGSWORTH,Other,Non-Fatal,Burglary / home invasion
+478,Houston PD,3/20/2014,11050 SOUTHWEST FWY OB,Gun,Unknown,Shots fired / shooting
+479,Houston PD,3/18/2014,2219 Stevens,Unarmed,Non-Fatal,Domestic Disturbance
+480,Houston PD,3/17/2014,9638 PLAINFIELD,Unarmed,Fatal,Robbery
+481,Houston PD,3/13/2014,7300 ARDMORE ST,Vehicle,Non-Fatal,Burglary / home invasion
+482,Houston PD,3/6/2014,503 West Road,BB Gun/Toy Gun,Fatal,Burglary / home invasion
+483,Houston PD,2/27/2014,914 DALLAS ST,Other,Non-Fatal,Theft
+484,Houston PD,2/16/2014,700 W GULF BANK RD,BB Gun/Toy Gun,Fatal,Robbery
+485,Houston PD,2/14/2014,6568 T.C.JESTER BLVD.,Gun,No Hit,Other
+486,Houston PD,2/9/2014,3900 PORTSMOUTH,BB Gun/Toy Gun,Non-Fatal,Other
+487,Houston PD,1/23/2014,855 GREENS RD,Gun,Fatal,Robbery
+488,Houston PD,1/19/2014,9220 NATHANIEL,Gun,No Hit,Stolen vehicle
+489,Houston PD,1/16/2014,5700 W LITTLE YORK RD,Unarmed,Fatal,Suspicious activity / patrol
+490,Houston PD,1/13/2014,08125 MILLS,Knife,Non-Fatal,Domestic Disturbance
+491,Houston PD,1/12/2014,10516 KATY FWY OB,Gun,No Hit,Assault
+492,Houston PD,12/26/2013,12606 WESTPARK DR,Vehicle,Unknown,Theft
+493,Houston PD,12/9/2013,2528 N BRAESWOOD BLVD,Unarmed,No Hit,Burglary / home invasion
+494,Houston PD,12/1/2013,7001 HILLCROFT,Unarmed,No Hit,Domestic Disturbance
+495,Houston PD,11/30/2013,6800 MISTY MORNING TRACE,Unarmed,No Hit,Burglary / home invasion
+496,Houston PD,11/3/2013,14001 FONDREN RD,Gun,Non-Fatal,Stolen vehicle
+497,Houston PD,10/24/2013,10225 SCOTT,Knife,Fatal,Domestic Disturbance
+498,Houston PD,9/30/2013,6060 GULFTON,Other,Non-Fatal,Domestic Disturbance
+499,Houston PD,9/26/2013,2600 HADLEY ST,Gun,Non-Fatal,Suspicious activity / patrol
+500,Houston PD,9/25/2013,1628 Birchwood,Gun,Fatal,Drug suspicion / drug warrant
+501,Houston PD,9/13/2013,13600 EAST FWY OB,Gun,Non-Fatal,Burglary / home invasion
+502,Houston PD,9/9/2013,2000 ALLEN PKWY OB,Gun,Fatal,Traffic stop
+503,Houston PD,9/1/2013,9290 WOODFAIR DR,Gun,Fatal,Weapons disturbance
+504,Houston PD,8/22/2013,13662 WESTHEIMER RD,Gun,Non-Fatal,Robbery
+505,Houston PD,8/7/2013,660 MAXEY RD,Gun,No Hit,Shots fired / shooting
+506,Houston PD,8/5/2013,5725 FONDREN RD,Gun,Fatal,Shots fired / shooting
+507,Houston PD,6/15/2013,8875 W BELLFORT ST,Other,Non-Fatal,Assault
+508,Houston PD,6/2/2013,16031 CLARKE SPRINGS DR,Gun,No Hit,Stolen vehicle
+509,Houston PD,5/31/2013,12710 BRANT ROCK DR,Gun,Non-Fatal,Other
+510,Houston PD,4/26/2013,"7044 FM 1960 E, Humble, TX",Gun,Fatal,Robbery
+511,Houston PD,4/11/2013,05887 WESTHEIMER RD B,Gun,Non-Fatal,Robbery
+512,Houston PD,4/10/2013,4700 ALLEN ST,Gun,No Hit,Suspicious activity / patrol
+513,Houston PD,4/6/2013,4700 WENDA,Gun,No Hit,Traffic stop
+514,Houston PD,3/23/2013,7411 BANYAN ST,Gun,Non-Fatal,Domestic Disturbance
+515,Houston PD,3/20/2013,"10405 N. Oswego St., JACINTO CITY TEXAS",Gun,Non-Fatal,Other
+516,Houston PD,3/19/2013,6725 SHERWOOD DR,Unarmed,Non-Fatal,Drug suspicion / drug warrant
+517,Houston PD,3/18/2013,600 SADDLE ROCK DR,Gun,Fatal,Traffic stop
+518,Houston PD,3/3/2013,5800 W AIRPORT BLVD,Gun,Non-Fatal,Suspicious activity / patrol
+519,Houston PD,2/28/2013,4911 DUMFRIES DR,Other,Fatal,Burglary / home invasion
+520,Houston PD,2/15/2013,1500 WASHINGTON AVE,Vehicle,No Hit,Traffic stop
+521,Houston PD,2/13/2013,15707 EASTEX FWY SER W,Gun,Non-Fatal,Suspicious activity / patrol
+522,Houston PD,2/13/2013,2900 S GESSNER DR,Knife,Fatal,Domestic Disturbance
+523,Houston PD,2/8/2013,11800 TAYLORCREST,Vehicle,No Hit,Traffic stop
+524,Houston PD,2/2/2013,614 W GREENS RD,Vehicle,Non-Fatal,Stolen vehicle
+525,Houston PD,1/16/2013,10919 SAGETRAIL DR,Unknown,No Hit,Burglary / home invasion
+526,Houston PD,1/12/2013,2200 BASTROP ST,Gun,Non-Fatal,Weapons disturbance
+527,Houston PD,1/12/2013,1018 S GESSNER DR,Gun,Non-Fatal,Robbery
+528,Houston PD,1/4/2013,1500 W BAY AREA BLVD,Unknown,No Hit,Burglary / home invasion
+529,Houston PD,12/26/2012,1500 Ruthven,Vehicle,Non-Fatal,Suspicious activity / patrol
+530,Houston PD,12/24/2012,10900 Gulf Freeway,Gun,No Hit,Weapons disturbance
+531,Houston PD,12/23/2012,4827 Brisbane,Gun,No Hit,Assault
+532,Houston PD,11/18/2012,6910 Old North Belt Dr.,Gun,No Hit,Shots fired / shooting
+533,Houston PD,11/16/2012,7313 Nordling,Unarmed,No Hit,Robbery
+534,Houston PD,11/4/2012,12810 Ashford Pine Dr.,Gun,Fatal,Unknown
+535,Houston PD,10/10/2012,3300 Sampson,Unarmed,Fatal,Suspicious activity / patrol
+536,Houston PD,9/24/2012,5800 South Gessner,Unarmed,No Hit,Burglary / home invasion
+537,Houston PD,9/22/2012,4309 Polk,Other,Fatal,Mental crisis / suicide attempt
+538,Houston PD,9/22/2012,2002 Dowling,Unarmed,No Hit,Burglary / home invasion
+539,Houston PD,9/20/2012,2100 Cambridge St,Gun,Non-Fatal,Assault
+540,Houston PD,9/16/2012,8826 Beechnut,Unarmed,Non-Fatal,Suspicious activity / patrol
+541,Houston PD,9/15/2012,4527 Lomitas,Vehicle,Non-Fatal,Fight / disorderly conduct
+542,Houston PD,9/13/2012,1500 Nagle,Knife,Fatal,Domestic Disturbance
+543,Houston PD,8/21/2012,6000 Black Maple,Gun,Non-Fatal,Burglary / home invasion
+544,Houston PD,8/18/2012,4700 Gloryland,Gun,No Hit,Shots fired / shooting
+545,Houston PD,8/7/2012,11727 W. Sam Houston Pkwy,Gun,Fatal,Domestic Disturbance
+546,Houston PD,8/3/2012,3100 Old Spanish Trail,Vehicle,No Hit,Burglary / home invasion
+547,Houston PD,7/22/2012,1600 N Wayside,Gun,No Hit,Other
+548,Houston PD,7/22/2012,1000 McGowan,Unarmed,No Hit,Unknown
+549,Houston PD,7/9/2012,7000 block of Bissonnet Street,Unarmed,Fatal,Suspicious activity / patrol
+550,Houston PD,6/27/2012,6000 Hollister,Gun,Fatal,Shots fired / shooting
+551,Houston PD,6/21/2012,10001 Westpark,Gun,No Hit,Assault
+552,Houston PD,6/19/2012,15800 Blueridge Rd,Gun,Non-Fatal,Suspicious activity / patrol
+553,Houston PD,6/12/2012,2610 Beatty,Gun,No Hit,Shots fired / shooting
+554,Houston PD,5/24/2012,2019 Dewalt St,Knife,Fatal,Other
+555,Houston PD,5/18/2012,11200 Fondren Rd,Knife,Fatal,Assault
+556,Houston PD,5/17/2012,1467 Main,Unarmed,No Hit,Assault
+557,Houston PD,5/16/2012,9200 N. Wayside,Gun,Non-Fatal,Shots fired / shooting
+558,Houston PD,5/7/2012,17300 Tomball Parway Service Rd,Gun,Fatal,Domestic Disturbance
+559,Houston PD,5/2/2012,10550 Gulf Freway,Gun,Non-Fatal,Robbery
+560,Houston PD,4/18/2012,5335 Gulf Freeway,Gun,Fatal,Other
+561,Houston PD,4/4/2012,11755 Court Glen,Unarmed,Non-Fatal,Other
+562,Houston PD,4/2/2012,5400 Wilmington,Unarmed,No Hit,Traffic stop
+563,Houston PD,3/31/2012,Protected By Law,Unarmed,No Hit,Unknown
+564,Houston PD,2/26/2012,10531 Gulf Freeway,Vehicle,Non-Fatal,Burglary / home invasion
+565,Houston PD,2/26/2012,5003 Ridgecreek Dr,Unknown,No Hit,Burglary / home invasion
+566,Houston PD,2/16/2012,8301 Allwood St,Gun,Non-Fatal,Drug suspicion / drug warrant
+567,Houston PD,1/13/2012,3820 Sherwood Ln,Unarmed,Non-Fatal,Stolen vehicle
+568,Houston PD,1/7/2012,13106 Abalone Way,Unarmed,Non-Fatal,Traffic stop
+569,Houston PD,1/4/2012,7024 Lawndale,Gun,No Hit,Other
+570,Houston PD,12/29/2011,9810 Gulf Freeway,Knife,Non-Fatal,Fight / disorderly conduct
+571,Houston PD,12/29/2011,17595 Tomball Parkway,Vehicle,Non-Fatal,Burglary / home invasion
+572,Houston PD,12/25/2011,9300 Tidwell,Unarmed,Fatal,Traffic stop
+573,Houston PD,12/13/2011,3700 Kingwod Dr,Gun,No Hit,Assault
+574,Houston PD,11/30/2011,4506 Sherwood,Gun,Fatal,Burglary / home invasion
+575,Houston PD,11/23/2011,3322 yellowstone,Gun,No Hit,Stolen vehicle
+576,Houston PD,11/21/2011,500 Rusk St,Gun,Non-Fatal,Weapons disturbance
+577,Houston PD,9/6/2011,3000 Oklahoma,Gun,Non-Fatal,Traffic stop
+578,Houston PD,9/3/2011,9700 Braeburn Glen,Vehicle,Non-Fatal,Other
+579,Houston PD,8/10/2011,10200 Forum Park,Knife,No Hit,Other
+580,Houston PD,8/8/2011,Unknown,Unarmed,Fatal,Burglary / home invasion
+581,Houston PD,7/28/2011,7221 Weyburn St,Unarmed,Non-Fatal,Drug suspicion / drug warrant
+582,Houston PD,7/24/2011,600 Mercury,Gun,Unknown,Shots fired / shooting
+583,Houston PD,7/23/2011,1600 Dunaway St,Gun,No Hit,Assault
+584,Houston PD,7/20/2011,17435 Imperial Valley,Gun,No Hit,Robbery
+585,Houston PD,7/11/2011,4401 W. 18TH ST,Knife,Fatal,Fight / disorderly conduct
+586,Houston PD,6/20/2011,4537 Bricker,Gun,No Hit,Robbery
+587,Houston PD,6/18/2011,5110 Georgia,Gun,Non-Fatal,Weapons disturbance
+588,Houston PD,6/15/2011,8100 Schneider,Vehicle,Non-Fatal,Stolen vehicle
+589,Houston PD,6/9/2011,Unknown,Unarmed,Fatal,Burglary / home invasion
+590,Houston PD,6/7/2011,8800 Curry,Gun,Unknown,Suspicious activity / patrol
+591,Houston PD,6/3/2011,7402 Calhoun Rd,Unarmed,No Hit,Assault
+592,Houston PD,5/18/2011,5351 W. Alabama,Gun,No Hit,Weapons disturbance
+593,Houston PD,5/16/2011,800 Northwest Mall,Gun,Non-Fatal,Weapons disturbance
+594,Houston PD,5/7/2011,2121 Main,Gun,Non-Fatal,Unknown
+595,Houston PD,4/11/2011,Unknown,Unknown,Unknown,Unknown
+596,Houston PD,3/26/2011,1 Goodson,Unarmed,Non-Fatal,Unknown
+597,Houston PD,3/16/2011,6767 Bennington,Gun,Fatal,Drug suspicion / drug warrant
+598,Houston PD,2/24/2011,207 Buckboard,Gun,Non-Fatal,Drug suspicion / drug warrant
+599,Houston PD,2/19/2011,1900 W. Gray,Unarmed,Fatal,Fight / disorderly conduct
+600,Houston PD,2/14/2011,13824 Rosetta,Knife,Fatal,Domestic Disturbance
+601,Houston PD,12/31/2010,3403 Mangum,Gun,No Hit,Robbery
+602,Houston PD,12/29/2010,3800 Jensen,Gun,Fatal,Other
+603,Houston PD,12/16/2010,9802 Forum Park,Gun,Fatal,Robbery
+604,Houston PD,12/12/2010,5100 Westheimer Rd,Gun,Non-Fatal,Shots fired / shooting
+605,Houston PD,11/30/2010,"4200 block of Fidelity, Jacinto City",Gun,Non-Fatal,Domestic Disturbance
+606,Houston PD,11/22/2010,7526 Rhobell,Unarmed,Non-Fatal,Stolen vehicle
+607,Houston PD,11/17/2010,14300 Minetta Street,Gun,Non-Fatal,Robbery
+608,Houston PD,11/8/2010,4800 Laura Koppe,Gun,Fatal,Suspicious activity / patrol
+609,Houston PD,11/5/2010,181 West Dyna,Unarmed,Non-Fatal,Burglary / home invasion
+610,Houston PD,11/3/2010,16206 Alden Ridge,Unarmed,Non-Fatal,Domestic Disturbance
+611,Houston PD,10/29/2010,4000 Southwest Freeway,Unarmed,Non-Fatal,Traffic stop
+612,Houston PD,10/26/2010,10322 Broadstairs,Unarmed,Non-Fatal,Burglary / home invasion
+613,Houston PD,10/10/2010,908 Thompson,Gun,Non-Fatal,Shots fired / shooting
+614,Houston PD,9/21/2010,14561 Northwest Freeway,Gun,No Hit,Robbery
+615,Houston PD,9/20/2010,1300 W. Donovan St,Vehicle,Non-Fatal,Assault
+616,Houston PD,9/3/2010,2500 Old Farm Rd,Gun,Fatal,Fight / disorderly conduct
+617,Houston PD,8/31/2010,15035 Westpark,Vehicle,Non-Fatal,Burglary / home invasion
+618,Houston PD,8/13/2010,550 F.M. 1959,Gun,No Hit,Suspicious activity / patrol
+619,Houston PD,8/9/2010,8221 Gulf Freeway,BB Gun/Toy Gun,No Hit,Suspicious activity / patrol
+620,Houston PD,7/22/2010,600 Greenspoint,Unknown,No Hit,Burglary / home invasion
+621,Houston PD,5/25/2010,Protected By Law,Unarmed,Non-Fatal,Burglary / home invasion
+622,Houston PD,5/20/2010,2900 W. Sam Houston Pkwy,Gun,Non-Fatal,Other
+623,Houston PD,5/16/2010,12109 Westheimer,Gun,Non-Fatal,Traffic stop
+624,Houston PD,4/19/2010,Arlington Texas or 8301 Ley Rd,Gun,Fatal,Other
+625,Houston PD,4/15/2010,3400 Woodchase,Knife,Non-Fatal,Domestic Disturbance
+626,Houston PD,4/2/2010,2400 Spring Rain Dr,Unarmed,Non-Fatal,Suspicious activity / patrol
+627,Houston PD,3/27/2010,1200 Oak Meadows,Gun,Fatal,Robbery
+628,Houston PD,3/19/2010,7325 Bellerive Dr,Gun,Fatal,Robbery
+629,Houston PD,3/7/2010,24000 block of Loop 494,Gun,Non-Fatal,Robbery
+630,Houston PD,2/24/2010,5200 Pederson,Unarmed,Non-Fatal,Traffic stop
+631,Houston PD,2/8/2010,Protected By Law,Gun,No Hit,Unknown
+632,Houston PD,2/4/2010,6900 Martin Luther King Blvd,Gun,No Hit,Robbery
+633,Houston PD,1/18/2010,11400 North Frwy,Gun,Non-Fatal,Fight / disorderly conduct
+634,Houston PD,1/15/2010,6710 Lectcher,Gun,Fatal,Drug suspicion / drug warrant
+635,Killeen PD,8/16/2014,3300 S Fort Hood,Vehicle,Non-Fatal,Traffic stop
+636,Killeen PD,4/4/2014,4509 Golden Gate Dr.,Knife,Non-Fatal,Mental crisis / suicide attempt
+637,Killeen PD,7/13/2013,1611 Grandon Dr.,Gun,Fatal,Weapons disturbance
+638,Killeen PD,5/9/2014,1104 Circle M Dr.,Gun,No Hit,Drug suspicion / drug warrant
+639,Killeen PD,3/30/2011,Botanical Dr./Zinnia Dr.,Unarmed,No Hit,Theft
+640,Killeen PD,11/13/2012,1500 Trailboss Dr.,Gun,No Hit,Domestic Disturbance
+641,Killeen PD,2/28/2012,2204 Granex,Gun,Fatal,Domestic Disturbance
+831,Corpus Christi PD,7/25/2011,240 NAS Drive,BB Gun/Toy Gun,Fatal,Mental crisis / suicide attempt
+643,Corpus Christi PD,12/24/2013,4113 Herndon St.,Gun,Fatal,Shots fired / shooting
+644,Corpus Christi PD,12/9/2012,1109 Salem Dr.,Gun,Fatal,Mental crisis / suicide attempt
+830,Corpus Christi PD,02/17/14,500 block of Hancock Ave,Gun,Non-Fatal,Weapons disturbance
+829,Corpus Christi PD,03/20/14,Corpus Christi Country Club,Gun,Non-Fatal,Suspicious activity / patrol
+828,Corpus Christi PD,11/09/14,2000 block Saratoga Blvd,Gun,Non-Fatal,Other
+827,Corpus Christi PD,02/15/15,4900 block of Dody Street,Gun,Non-Fatal,Shots fired / shooting
+826,Corpus Christi PD,04/05/15,4200 block of Santa Fe Drive,Gun,Non-Fatal,Robbery
+825,Corpus Christi PD,05/04/15,3800 Brookside Drive,Gun,Non-Fatal,Mental crisis / suicide attempt
+802,Corpus Christi PD,10/30/15,6313 Saint Denis,Gun,Non-Fatal,Domestic Disturbance
+803,Corpus Christi PD,11/23/2015,5030 Concord,Knife,Fatal,Mental crisis / suicide attempt
+809,Corpus Christi PD,12/21/15,14000 block Red River Drive,Gun,Non-Fatal,Shots fired / shooting
+645,Round Rock PD,04/08/13,1500 South I-35 (Brookfield Apartments),Gun,No Hit,Robbery
+646,Round Rock PD,6/16/2013,1900 Nicole Circle,Gun,Fatal,Shots fired / shooting
+647,Round Rock PD,6/23/2013,221 E. Main St.,Gun,Fatal,Weapons disturbance
+800,Pearland PD,9/13/2015,"300 Block of Galley Way (Freeport, Texas)",Armed - Unknown Weapon,Fatal,Unknown
+806,Pasadena PD,8/9/2010,Unknown,Unknown,Unknown,Unknown
+807,Pasadena PD,7/13/2010,Unknown,Unknown,Unknown,Unknown
+808,Pasadena PD ,6/22/2011,Unknown,Unarmed,Non-Fatal,Traffic stop

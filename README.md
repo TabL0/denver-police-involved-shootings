@@ -8,7 +8,7 @@
 |2        |Los Angeles      |California          |  Y           |
 |3        |Chicago          |Illinois            | Not Yet - see below| 
 |4        |Houston          |Texas               |              |
-|5        |Phoenix          |Arizona             |              |
+|5        |Phoenix          |Arizona             |  Y           |
 |6        |Philadelphia     |Pennsylvania        |              |
 |7        |San Antonio      |Texas               |              |
 |8        |San Diego        |California          |              |
