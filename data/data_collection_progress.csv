@@ -4,7 +4,7 @@
 3,Chicago,Illinois,,,,,,
 4,Houston,Texas,,,,,,
 5,Phoenix,Arizona,Y,"police involved shootings, no action_taken information","[DATE, TIME, HOUR, DAY_OF_WEEK, MONTH, QUARTER, YEAR, INC_RPT, PRECINCT, COUNCIL_DIST, LOCATION, SP_WEAPON, SP_INJURY_LEVEL, FATALITY_FLG, SP_GENDER, SP_ETHNICITY, SP_RACE, SP_AGE_AT_INC, SP_AGE_GROUP, PO_RACE, PO_ETHNICITY, REFERENCE_ID]","[2017, 2020]",N/A,https://www.phoenixopendata.com/dataset/officer-involved-shooting-incidents/resource/8f8c1739-b905-407f-9eb6-6b10db55b931
-6,Philadelphia,Pennsylvania,,,,,,
+6,Philadelphia,Pennsylvania,Y ,"police involved shootings, no action_taken information ","[the_geom, the_geom_webmercator, objectid, year, dc_key, code, date_, race, sex, age, wound, officer_involved, offender_injured, offender_deceased, location, latino, point_x, point_y, dist, time, inside, outside, fatal, lat, lng]","[2015, 2020]",N/A,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee
 7,San Antonio,Texas,,,,,,
 8,San Diego,California,,,,,,
 9,Dallas,Texas,,,,,,
