@@ -1,5 +1,5 @@
-2019 Rank,City,State,Dataset Found?,Small Description ,Columns,Years Covered,Link to Usage Information,URL Source
-1,New York,New York,,,,,,
+2019 Rank,City,State,Dataset Found? [Y/N],Small Description ,Columns,Years Covered,Link to Usage Information,URL Source
+1,New York,New York,N,,,,,https://www1.nyc.gov/site/nypd/stats/reports-analysis/firearms-discharge.page
 2,Los Angeles,California,,,,,,
 3,Chicago,Illinois,,,,,,
 4,Houston,Texas,,,,,,
@@ -17,7 +17,7 @@
 16,San Francisco,California,,,,,,
 17,Indianapolis,Indiana,,,,,,
 18,Seattle,Washington,,,,,,
-19,Denver,Colorado,,,,,,
+19,Denver,Colorado,Y,police involved shootings ,"[INCIDENT_NUMBER, INCIDENT_DATE, INCIDENT_TIME, DAY_OF_WEEK, INITIAL_CONTACT, CONTACT_BASIS, STREET_ADDRESS, CITY_STATE, LAST_FIRST_NAME, ROLE, OFFICER_RANK, BADGE_NUMBER, DUTY_STATUS, UNIFORM_PLAINCLOTHES, GENDER, AGE, RACE, ETHNICITY, ARMED_WITH, DISCHARGED_FIREARM, CASUALTY, DECISION_LETTER_URL, X_COORDINATE, Y_COORDINATE]","[2015, 2020]",/data/city_data/denver-co/usage_info.txt,https://www.denvergov.org/opendata/dataset/city-and-county-of-denver-denver-police-officer-involved-shootings
 20,Washington,District of Columbia,,,,,,
 21,Boston,Massachusetts,,,,,,
 22,El Paso,Texas,,,,,,
