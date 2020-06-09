@@ -9,7 +9,7 @@
 |3        |Chicago          |Illinois            | Not Yet - see below| 
 |4        |Houston          |Texas               |              |
 |5        |Phoenix          |Arizona             |  Y           |
-|6        |Philadelphia     |Pennsylvania        |              |
+|6        |Philadelphia     |Pennsylvania        |   Y          |
 |7        |San Antonio      |Texas               |              |
 |8        |San Diego        |California          |              |
 |9        |Dallas           |Texas               |              |
