@@ -4,7 +4,7 @@
 
 |2019 rank|City             |State               |Dataset Found?|Columns|Years Covered|Link to Usage Information|URL Source|
 |---------|-----------------|--------------------|--------------|-------|-------------|-------------------------|----------|
-|1        |New York         |New York            |              |       |             |                         |          |
+|1        |New York         |New York            | <ul><li>[x]</li><li>             |       |             |                         |          |
 |2        |Los Angeles      |California          |              |       |             |                         |          |
 |3        |Chicago          |Illinois            |              |       |             |                         |          |
 |4        |Houston          |Texas               |              |       |             |                         |          |
