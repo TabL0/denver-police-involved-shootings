@@ -5,7 +5,7 @@
 |2019 Rank|City             |State               |Dataset Found?|
 |---------|-----------------|--------------------|--------------|
 |1        |New York         |New York            |  N           |
-|2        |Los Angeles      |California          |              |
+|2        |Los Angeles      |California          |  Y           |
 |3        |Chicago          |Illinois            |              |
 |4        |Houston          |Texas               |              |
 |5        |Phoenix          |Arizona             |              |
