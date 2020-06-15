@@ -1,5 +1,8 @@
 # Police Involved Shootings
 
+## Step Zero: Create get_data.sh Thing 
+instead of pushing a bunch of data to this repo, create a script that downloads all of the data 
+
 ## Step One: Data Collection
 
 |2019 Rank|City             |State               |Dataset Found?|
@@ -9,7 +12,7 @@
 |3        |Chicago          |Illinois            | Not Yet - see below| 
 |4        |Houston          |Texas               |              |
 |5        |Phoenix          |Arizona             |  Y           |
-|6        |Philadelphia     |Pennsylvania        |              |
+|6        |Philadelphia     |Pennsylvania        |   Y          |
 |7        |San Antonio      |Texas               |              |
 |8        |San Diego        |California          |              |
 |9        |Dallas           |Texas               |              |
