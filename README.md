@@ -1,5 +1,8 @@
 # Police Involved Shootings
 
+## Step Zero: Create get_data.sh Thing 
+instead of pushing a bunch of data to this repo, create a script that downloads all of the data 
+
 ## Step One: Data Collection
 
 |2019 Rank|City             |State               |Dataset Found?|
