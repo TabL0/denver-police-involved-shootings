@@ -61,4 +61,6 @@ instead of pushing a bunch of data to this repo, create a script that downloads 
 lead for chigaco 
 https://github.com/invinst/chicago-police-data/tree/master/data/unified_data
 
-## Step Two: hahaha idk 
+## Step Two: Ruraral Cities/Counties (leave me alone! rurrurual)
+- find 50 rural counties to do a comparison analysis 
+- influence of policies 
