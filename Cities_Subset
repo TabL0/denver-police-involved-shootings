@@ -1,0 +1,79 @@
+
+
+#-----------------------------------
+#Subtset of 50 Most Populated Cities
+#-----------------------------------
+
+#Katie
+#-----
+
+# 2 Los Angeles, California
+mkdir data/los-angeles-ca
+wget -O data/los-angeles-ca/los-angeles-ca.csv "https://data.lacounty.gov/api/views/7jc3-gsk7/rows.csv?accessType=DOWNLOAD" 
+
+
+# 5 Phoenix, Arizona
+mkdir data/phoenix-az
+wget -O data/phoenix-az/phoenix-az.csv "https://www.phoenixopendata.com/dataset/1e472b1f-80c1-4686-b80f-e930616f8580/resource/8f8c1739-b905-407f-9eb6-6b10db55b931/download/ois.csv"
+
+
+# 6 Philadelphia, Pennsylvania
+mkdir data/philadelphia-pa
+wget -O data/philadelphia-pa/philadelphia-pa.csv "https://phl.carto.com/api/v2/sql?q=SELECT+*,+ST_Y(the_geom)+AS+lat,+ST_X(the_geom)+AS+lng+FROM+shootings&filename=shootings&format=csv&skipfields=cartodb_id"
+
+
+# 19 Denver, Colorado
+mkdir data/denver-co
+wget -O data/denver-co/denver-co.csv "https://www.denvergov.org/media/gis/DataCatalog/denver_police_officer_involved_shootings/csv/denver_police_officer_involved_shootings.csv"
+
+
+# 30 Baltimore, Maryland
+
+
+# 31 Milwaukee, Wisconsin
+
+
+# 27 Las Vegas, Nevada
+
+
+# 40 Omaha, Nebraska
+
+
+# 26 Portland, Oregon
+
+
+# 18 Seattle, Washington
+
+
+
+#Justin
+#------
+
+# 27 Las Vegas, Nevada
+
+
+# 18 Seattle, Washington
+
+
+# 36 Sacramento, California
+
+
+# 25 Oklahoma City, Oklahoma
+
+
+# 30 Baltimore, Maryland
+
+
+# 49 Arlington, Texas
+
+
+# 32 Albuquerque, New Mexico
+
+
+# 42 Miami, Florida
+
+
+# 33 Tucson, Arizona
+
+
+# 23 Nashville, Tennessee
