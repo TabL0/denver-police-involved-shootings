@@ -24,7 +24,7 @@ instead of pushing a bunch of data to this repo, create a script that downloads 
 |15       |Charlotte        |North Carolina      |              |
 |16       |San Francisco    |California          |              |
 |17       |Indianapolis     |Indiana             |              |
-|18       |Seattle          |Washington          |              |
+|18       |Seattle          |Washington          |       Y      |
 |19       |Denver           |Colorado            |       Y      |
 |20       |Washington       |District of Columbia|              |
 |21       |Boston           |Massachusetts       |              |
