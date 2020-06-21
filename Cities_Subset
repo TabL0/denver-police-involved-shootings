@@ -52,8 +52,8 @@ wget -O data/denver-co/denver-co.csv "https://www.denvergov.org/media/gis/DataCa
 # 27 Las Vegas, Nevada
 
 
-# 18 Seattle, Washington
-
+# 18 Seattle, Washington: YES
+https://www.seattle.gov/police/information-and-data/use-of-force-data/use-of-force-dataset
 
 # 36 Sacramento, California
 
